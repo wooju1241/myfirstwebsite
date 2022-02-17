@@ -1,0 +1,9 @@
+body {
+  background-color: #8d8484;
+}
+a {
+  color: black;
+}
+#nav a:hover {
+  color: #333333;
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: #e49eb6;
+}
+#nav a:hover {
+    color: gray;
+}
+#introduce {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+  align-items: center;
+  flex: 1;
+  gap: 200px;
+}
+#introduce img{
+    margin-top: 120px;
+}
+.main-text{
+    color: white; 
+    font-size: 50px;
+}
+.main-text:hover{
+    color: grey;
+    transition: 0.2s;
+}
+
+.mid-font{
+    font-size: 30px;
+}
+
+#text > i {
+  cursor: pointer;
+}
+#text{
+    margin-right: 50px;
+}
+
+.highlite:hover{
+    color: gray;
+    transition: 0.2s;   
+}
+
+i {
+  font-size: 50px;
+  color: white;
+}
+
+
+i:hover{
+    font-size: 50px;
+    color: gray;
+  }

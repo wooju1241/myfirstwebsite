@@ -1,0 +1,21 @@
+body{
+    /* background-image: url(../static/img/about-back.svg); */
+    background-color: #e49eb6;
+}
+#nav a:hover {
+    color: gray;
+}
+
+.container{
+    width: 300vw;  
+    transform: translate(-100vw);  
+}
+
+.inner{
+    width: 100vw;
+    float: left;
+}
+
+.inner div{
+    width: 100%;
+}

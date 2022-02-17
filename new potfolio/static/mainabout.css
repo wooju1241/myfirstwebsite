@@ -1,0 +1,18 @@
+body {
+  background-color: #e9a1b9;
+}
+
+#nav a:hover {
+  color: gray;
+}
+#imgs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  gap: 200px;
+}
+
+.mid-text:hover {
+  color: gray;
+}
